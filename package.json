@@ -1,0 +1,9 @@
+{
+  "name": "streamforge-live-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Independent live-streaming community starter",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "test": "node --test"},
+  "engines": {"node": ">=20"}
+}
